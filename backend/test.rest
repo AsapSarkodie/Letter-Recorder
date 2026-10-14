@@ -1,5 +1,5 @@
 ###
-POST http://localhost:6000/auth/register
+POST http://localhost:6000/auth/signin
 Content-Type: application/json
 
 {
